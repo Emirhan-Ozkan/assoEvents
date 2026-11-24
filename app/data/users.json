@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "nom": "Tom",
+      "email": "tom@email.com"
+    },
+    {
+      "id": 2,
+      "nom": "Marc",
+      "email": "marc@email.com"
+    },
+    {
+      "id": 3,
+      "nom": "Anna",
+      "email": "anna@email.com"
+    },
+    {
+      "id": 308557,
+      "nom": "emirhan",
+      "email": "emirhan.ozkan@isen.uncrea.fr"
+    },
+    {
+      "id": 52336,
+      "nom": "emirhan",
+      "email": "emirhan.ozkan@isen.yncrea.fr"
+    },
+    {
+      "id": 204746,
+      "nom": "222",
+      "email": "emirhan.ozkan@isen.yncrea.fr"
+    }
+  ]
+}
