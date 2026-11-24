@@ -44,5 +44,3 @@ EXEMPLE : l'utilisateur va sur la page /html:
 6 - La page est transformée
 7 - 'showUsers' renvoie la page HTML (c'est la Response)
 8 - Le navigateur affiche la Response du serveur
-
-test
